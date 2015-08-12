@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name       网易云音乐海外助手
 // @namespace    http://www.sudodev.cn/music-163-access-abroad/
-//@updateURL http://git.oschina.net/bobshi/NetEaseMusicHelper/raw/master/netease_music_helper.user.js
-// @version      0.1
+// @updateURL http://git.oschina.net/bobshi/NetEaseMusicHelper/raw/master/netease_music_helper.user.js
+// @version      0.2
 // @description  让海外的用户能正常听网易云音乐
 // @author       Bob
 // @match        http://music.163.com/*
