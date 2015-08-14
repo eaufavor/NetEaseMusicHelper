@@ -1,4 +1,4 @@
-#在海外正常使用网易云音乐网页版
+#[UserScripts]在海外正常使用网易云音乐网页版
 
 ##具体用途
 请到我的博客看这篇文章：[在海外使用网易云音乐](http://www.sudodev.cn/music-163-access-abroad/)
