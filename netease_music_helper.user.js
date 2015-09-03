@@ -7,8 +7,14 @@
 // @author       Bob
 // @match        http://music.163.com/*
 // @grant        none
+// @require http://code.jquery.com/jquery-latest.js
 // ==/UserScript==
 window.GAbroad=false;
+
+/**Then remove the gray color**/
+$( window ).load(function() {
+   $(".js-dis").removeClass('js-dis');
+});
 /**
 如果是在浏览器控制台，你也可以把这句代码：window.GAboard=window.contentFrame.GAbroad = false; 执行，目前来说，可以达到相同的效果
 **/
