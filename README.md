@@ -1,7 +1,17 @@
-#[UserScripts]在海外正常使用网易云音乐网页版
+#[UserScripts]修改网易云音乐海外用户状态
 
-##具体用途
-请到我的博客看这篇文章：[在海外使用网易云音乐](http://www.sudodev.cn/music-163-access-abroad/)
 
-##如何使用
-请到我的博客看这篇文章：[如何在浏览器中使用UserScripts](http://www.sudodev.cn/userscript-in-browser/)
+##使用说明
+Chrome用户： 在Tampermonkey中安装此脚本 https://raw.githubusercontent.com/eaufavor/NetEaseMusicHelper/master/netease_music_helper.user.js
+
+并且修改hosts地址：
+```
+175.25.168.31 m10.music.126.net
+104.236.189.178 music.163.com
+```
+
+##版本历史
+* 2015.9： 直接修改GAbroad（借鉴[在海外使用网易云音乐](http://www.sudodev.cn/music-163-access-abroad/)
+），去除播放列表灰色
+
+* 2015.12： 旧方法失效，改为修改core.js 
