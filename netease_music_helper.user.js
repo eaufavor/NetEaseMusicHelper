@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       网易云音乐海外助手
 // @namespace    
-// @updateURL 
+// @updateURL    https://raw.githubusercontent.com/eaufavor/NetEaseMusicHelper/master/netease_music_helper.user.js
 // @version      0.1
 // @description  修改网易云音乐海外用户状态
 // @author       eaufavor
