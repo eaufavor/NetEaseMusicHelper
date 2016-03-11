@@ -7,7 +7,7 @@ Chrome用户： 在Tampermonkey中安装此脚本 https://raw.githubusercontent.
 并且修改hosts地址：
 ```
 175.25.168.31 m10.music.126.net
-104.236.189.178 music.163.com
+158.69.209.100 music.163.com
 ```
 
 ##版本历史
